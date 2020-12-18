@@ -1,0 +1,8 @@
+.DS_Store
+az_statewide_2020_04_01.csv
+ma_statewide_2020_04_01.csv
+mt_statewide_2020_04_01.csv
+nc_statewide_2020_04_01.csv
+ri_statewide_2020_04_01.csv
+vt_statewide_2020_04_01.csv
+wi_statewide_2020_04_01.csv
